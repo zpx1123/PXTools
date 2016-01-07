@@ -1,0 +1,25 @@
+{
+  "name": "PXTools",
+  "version": "0.1.0",
+  "summary": "A short description of PXTools.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PXTools",
+  "license": "MIT",
+  "authors": {
+    "zhoupengxiang": "98@chinadance.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PXTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "PXTools": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

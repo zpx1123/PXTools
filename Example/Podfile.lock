@@ -1,0 +1,14 @@
+PODS:
+  - PXTools (0.1.0)
+
+DEPENDENCIES:
+  - PXTools (from `../`)
+
+EXTERNAL SOURCES:
+  PXTools:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PXTools: 3d3e4a2b3a5117799eac2a4a8c4431e5f74f3005
+
+COCOAPODS: 0.39.0

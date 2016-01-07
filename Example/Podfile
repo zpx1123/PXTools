@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'PXTools_Example', :exclusive => true do
+  pod "PXTools", :path => "../"
+end
+
+target 'PXTools_Tests', :exclusive => true do
+  pod "PXTools", :path => "../"
+
+  
+end

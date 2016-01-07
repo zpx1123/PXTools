@@ -1,0 +1,6 @@
+framework module PXTools {
+  umbrella header "PXTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
